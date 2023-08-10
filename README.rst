@@ -35,8 +35,6 @@ Table Of Contents
 
 `5. Documentation (WIP)`_
 
-`6. License (WIP)`_
-
 
 Introduction
 ---------------
@@ -119,4 +117,5 @@ A nixified version of Libresage.
 4. Installation (WIP)
 ---------------
 
-
+5. Documentation (WIP)
+---------------
