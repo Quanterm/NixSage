@@ -1,8 +1,6 @@
 A free and open source digital signage solution refreshed in Nix.
 
-
-
-LibreSignage is unmaintained as of 3rd of February 2021
+A nixified version of Libresage
 -------------------------------------------------------
 
 LibreSignage started in 2018 as a small project aiming to make digital signage
@@ -79,6 +77,8 @@ content. This approach has a few advantages.
    advantage of making slide previewing very simple. You can either
    use the 'Live Preview' in the editor or check the exact results
    from the actual 'Display' page that's displayed on the clients too.
+
+LibreSignage is unmaintained as of 3rd of February 2021
 
 Now it is time for a refresh with the goal to make a user friendlier setup and easier maintainence.
 A nixified version of Libresage.
